@@ -1,6 +1,6 @@
 # Projets
 
-## Carte utilisateur
+## Carte utilisateur ~responsive
 
 [Voir l'original](projets/carte-utilisateur/carte-utilisateur.html)
 
@@ -10,4 +10,4 @@
 - - - - -
 
 ## Voir la section Origami
-<a href="origami/origami.md#Galerie_/_Grille_CSS_des_photos_d'origami"><img style="border: none; display: block; margin: auto; height: 30vh; width: auto" src="origami/photos/grue_origami.svg"></a>
+<a href="origami/origami.md"><img style="border: none; display: block; margin: auto; height: 30vh; width: auto" src="origami/photos/grue_origami.svg"></a>

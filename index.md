@@ -1,5 +1,5 @@
 <div style="display:flex;justify-content:center;align-items:center">
-<pre style="background:white;border:none;color:black;font-size:0.5vw;font-weight:bold;white-space:pre">
+<pre style="background:white;border:none;color:black;font-size:0.4vw;font-weight:bold;white-space:pre">
 
                                                                                                                                                                                                                                             
                                                                                                                                                                                                                                             

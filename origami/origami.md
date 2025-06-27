@@ -1,6 +1,6 @@
 # Origami
 
-## Intégration d'un fichier pdf
+## Intégration d'un fichier pdf / Solfège et grue
 <embed src="origami/mfpp_solfege.pdf" type="application/pdf" style="height: 1000px; width: 100%">
 
 
