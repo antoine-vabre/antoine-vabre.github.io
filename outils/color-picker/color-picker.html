@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Color Picker</title>
+    <link href="color-picker.css" rel="stylesheet">
+    <style>
+        *,
+        *:before,
+        *:after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            --color: #555;
+            --heading-color: #333;
+            --btn-bg-color: rgb(190 24 93 / 90%);
+            --btn-color: rgb(255 255 255 / 70%);
+            --body-bg: #fff;
+            color: var(--color, #555);
+            background-color: var(--body-bg, #fff);
+            width: fit-content;
+        }
+
+        @media (min-width: 300px) {
+            body {
+                margin: 25vh auto
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="color-picker">
+        <input id="myPicker" name="myPicker" data-format="hex" data-color-presets="red,green,blue" class="color-preview"
+            value="#FFF" />
+    </div>
+
+    <script src="color-picker.js"></script>
+    <script>
+        var myPicker = new ColorPicker('#myPicker');
+    </script>
+</body>
+
+</html>
