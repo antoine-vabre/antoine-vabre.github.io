@@ -1,7 +1,7 @@
 # Origami
 
 ## Intégration d'un fichier pdf
-<embed src="origami/mfpp_solfege.pdf" type="application/pdf" style="height: 1000px; width=100%">
+<embed src="origami/mfpp_solfege.pdf" type="application/pdf" style="height: 1000px; width: 100%">
 
 
 ## Intégration d'un site web / Reference finder
